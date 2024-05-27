@@ -1,4 +1,4 @@
 Clash-Windows.7z filter=lfs diff=lfs merge=lfs -text
 ./master/test filter=lfs diff=lfs merge=lfs -text
 master/test filter=lfs diff=lfs merge=lfs -text
-master/test/*.7z filter=lfs diff=lfs merge=lfs -dir
+master/test/*.7z filter=lfs diff=lfs merge=lfs -text
